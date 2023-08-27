@@ -2,17 +2,17 @@
 Intro projects for analystics and data science
 
 This repo contains the following data analystics projects:
-# E-New Express 
+## E-New Express 
 Business statistics fundamentals
-# Easy Visa
+## Easy Visa
 Ensemble techniques for data science
-# Food Hub
+## Food Hub
 Introduction to python 
-# Renewind 
+## Renewind 
 Basics of model tuning and predictive validity
-# Inn Hotels
+## Inn Hotels
 Intro to classification types
-# Recell 
+## Recell 
 Supervised learning fundamentals 
-# Trade & Ahead
+## Trade & Ahead
 Unsupervised learning fundamentals
